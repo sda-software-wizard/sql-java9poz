@@ -1,0 +1,1 @@
+SELECT name, surname FROM `CUSTOMERS_EMPLOYEE`
